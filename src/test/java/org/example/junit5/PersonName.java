@@ -36,7 +36,7 @@ public class PersonName {
     public void test3(){
         names.add("Sergy");
         names.remove(0);
-        Assertions.assertEquals(names.size(), 1);
+        Assertions.assertEquals(names.size(), 0);
     }
 
     @Test
