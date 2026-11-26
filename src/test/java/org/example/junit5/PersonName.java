@@ -41,6 +41,7 @@ public class PersonName {
 
     @Test
     public void test2() {
+
         names.add("Valera");
         names.add("Petya");
         names.remove(1);
